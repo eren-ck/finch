@@ -9,7 +9,7 @@ __First Integer Neighbor Clustering Hierarchy Algorithm__
 A Python implementation of FINCH algorithm from the paper
 > Sarfraz, Saquib, Vivek Sharma, and Rainer Stiefelhagen. "Efficient parameter-free clustering using first neighbor relations." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
 
-This implementation is faster than the original implementation (see benchmark below). Further, our code deviates from the paper as it does implement Algorithm 2, "Required Number of Clusters Mode".
+This implementation is faster than the original implementation (see benchmark below). Further, our code deviates from the paper as it does not implement Algorithm 2, "Required Number of Clusters Mode".
 
 ---
 
